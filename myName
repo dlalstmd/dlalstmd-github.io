@@ -1,0 +1,4 @@
+public class myName
+{
+  System.out.println("신재욱");
+}
